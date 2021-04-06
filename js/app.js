@@ -16,3 +16,4 @@ questions.forEach(function (question) {
     question.classList.toggle("show-text");
   });
 });
+//end code
